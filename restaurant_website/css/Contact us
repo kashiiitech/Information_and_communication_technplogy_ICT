@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/home/kashi/restaurant/css/css.style">
+    <title>CHIEF BURGER AND PIZZA</title>
+</head>
+<body>
+    <nav class="navbar background">
+        <ul class="nav-list">
+            <div class="logo"><img src="/home/kashi/restaurant/css/food.png" alt="chief logo"></div>
+            <li><a href="/home/kashi/restaurant/css/page1">Home</a></li>
+            <li><a href="/home/kashi/restaurant/css/About us">About us</a></li>
+            <li><a href="/home/kashi/restaurant/css/menuu.html">Menu</a></li>
+            <li><a href="/home/kashi/restaurant/css/Careers">Careers</a></li>
+            <li><a href="/home/kashi/restaurant/css/Suggestion Box">Suggestion Box</a></li>
+            <li><a href="/home/kashi/restaurant/css/Contact us">Contact us</a></li>
+        </ul>
+        <div class="rightNav">
+            <input type="text" name="Search" id="Search">
+            <button class="btn btn-sm">Go</button>
+        </div>
+    </nav> 
+        </div>
+    <p class="waqar"> <small> The Chief's team is there to listen. <br>
+Just email us on one of the following addresses depending upon the type of your query.</small> </p>
+General Information : 	chief.burger@yahoo.com <br> Reservation : 	0915702866 <br> <br> <br> <br>
+
+CHIEF BURGER
+Fawad Plaza, Jamrud Road, Peshawar. <br>
+Phone:+92-91-5844788, 5845638, 5702866
+
+<img src="/home/kashi/restaurant/css/66.jpeg" alt="" width="23%">
+
+</body>
+<br> <br> <br> <br> <br> <br> <br> 
+<footer>        Copyright ©2020 chief.com.pk. All rights reserved. privacy statement 2020</footer>
+                Developed by : Kashif Ali  20P-0648 <br> <br> <br> <br>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/home/kashi/restaurant/css/css.style">
+    <title> CHIEF BURGER AND PIZZA </title>
+</head>
+<body>
+    <nav class="navbar background">
+        <ul class="nav-list">
+            <div class="logo"><img src="/home/kashi/restaurant/css/food.png" alt="chief logo"></div>
+            <li><a href="/home/kashi/restaurant/css/page1">Home</a></li>
+            <li><a href="/home/kashi/restaurant/css/About us">About us</a></li>
+            <li><a href="/home/kashi/restaurant/css/menuu.html">Menu</a></li>
+            <li><a href="/home/kashi/restaurant/css/Careers">Careers</a></li>
+            <li><a href="/home/kashi/restaurant/css/Suggestion Box">Suggestion Box</a></li>
+            <li><a href="/home/kashi/restaurant/css/Contact us">Contact us</a></li>
+        </ul>
+        <div class="rightNav">
+            <input type="text" name="Search" id="Search">
+            <button class="btn btn-sm">Go</button>
+        </div>
+    </nav> 
+        </div>
+    
+<p></p>
+<p> <br> <br> <br> <small>Chief, the only best fast food restaurant in Peshawar offers a wide and varied menu to customers specializing in quality burger & chicken products. We now offer products that have appeal to all ages and tastes including the sizzling steak, Chicken cheese burger, special chief pizza and chicken chowmein to name a few.</small></p>
+<p> <br> <small>Chief continually strives to develop products that are innovative, price competitive and offer maximum enjoyment and convenience to customers. Recent technological investments such as the installation of new machines, ovens have ensured consistency of products and the development of new products to its menu list.</small></p>
+<p> <br> <small>Chief is located at the heart of historical city called Peshawar. The city has seen the rise and fall of many dynasties. It has been the center of Ghandhara civilization and had been ruled by the Afghans, Mughals, Durranis, Sikhs and British's as till independence in 1947.</small></p>
+<p> <br> <small> Chief is located in a very lucrative corner of a Fawad Plaza, a very short drive from Yadgar-e-Hayat towards university of Peshawar on Jamrud road.</small>
+</p>
+
+ <ul>Mission Statement:</ul>
+        <p> <small> Chief will be a leading Pakistani owned fast food company that is committed to providing innovative products that are consumer and lifestyle focused.
+            We will achieve this by meeting our customer expectations for:</small> <br>
+        
+            <br>
+    Value <br>
+    Quality <br>
+    Efficient Service <br>
+    Hygiene <br>
+
+
+
+        
+        
+        </p>
+   <small>In a customer friendly environment, to add value to our stakeholders.</small>
+
+</body>
+<br> <br> <br> <br> <br>
+<footer>        Copyright ©2020 chief.com.pk. All rights reserved. privacy statement 2020</footer>
+                Developed by : Kashif Ali  20P-0648 <br> <br>
+</html>

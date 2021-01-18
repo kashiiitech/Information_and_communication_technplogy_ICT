@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/home/kashi/restaurant/css/css.style">
+    
+    <title>CHIEF BURGER AND PIZZA</title>
+</head>
+<body>
+    <nav class="navbar background">
+        <ul class="nav-list">
+            <div class="logo"><img src="/home/kashi/restaurant/css/food.png" alt="chief logo"></div>
+            <li><a href="/home/kashi/restaurant/css/page1">Home</a></li>
+            <li><a href="/home/kashi/restaurant/css/About us">About us</a></li>
+            <li><a href="/home/kashi/restaurant/css/menuu.html">Menu</a></li>
+            <li><a href="/home/kashi/restaurant/css/Careers">Careers</a></li>
+            <li><a href="/home/kashi/restaurant/css/Suggestion Box">Suggestion Box</a></li>
+            <li><a href="/home/kashi/restaurant/css/Contact us">Contact us</a></li>
+        </ul>
+        <div class="rightNav">
+            <input type="text" name="Search" id="Search">
+            <button class="btn btn-sm">Go</button>
+        </div>
+    </nav> 
+        </div>
+    Growth Opportunities: <br>
+    <br>
+    <br>
+    <small> At Chief, we believe that training and development, both personal and professional, are crucial to our long-term success. We’re proud to offer exceptional training programs, a wide variety of career path options, and a work environment that emphasizes coaching as a basis for learning and growth. We hire talented individuals who take pride and ownership in the business by striving to be the best. We hire Team Members who believe the Company’s success is in their hands. Every Team Member has the opportunity to advance based upon his or her performance and potential. Our program includes annual performance appraisals designed to let Team Members know exactly what the expectations are and what opportunities exist for improving.</small>
+    <p>Job Opportunities :</p>
+    Team Member Position Descriptions <br>
+     <br> No Jobs Available <br>
+     <br> Restaurant Management Positions <br>
+     <br> 
+     No Jobs Available
+
+     <p>Current Career Vacancies :</p>
+
+     <small> No vacancy exists at the moment. However various positions become available from time to time. As soon they become available they will be posted onto this page.</small> <br>
+      <small>However applicants are encouraged to forward their resume well in advance
+for the forthcoming contract as well as permanent positions.</small>
+
+    <p>Forward written applications with resumes to:</p> <br>
+    The Manager <br>
+    Fawad Plaza, Jamrud Road, Peshawar, PAKISTAN.
+Phone:+92-91-5844788, 5845638, E-mail: info@chief.com.pk, chief.burger@yahoo.com
+
+
+</body>
+<br> <br> <br> <br> <br> <br>
+<footer>        Copyright ©2020 chief.com.pk. All rights reserved. privacy statement 2020</footer>
+                Developed by : Kashif Ali  20P-0648 <br> <br> <br> <br>
+</html>
